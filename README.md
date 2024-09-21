@@ -1,5 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Clyders&color=orange)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyders&langs_count=8&theme=radical)
+
+---
+
 ### Hi there 👋
 
 My name is Aditya!
@@ -14,10 +20,11 @@ const aboutMe = {
 
 ```
 
+---
+
 ### Stats
 
-![image](https://github-readme-stats.vercel.app/api?username=Clyders&count_private=1&theme=radical)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyders&layout=compact)
+![image](https://github-readme-stats.vercel.app/api?username=Clyders&count_private=1&show_icons=true&theme=merko)
 
 <!--
 - 🔭 I’m currently working on ...
