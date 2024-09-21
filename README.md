@@ -1,10 +1,25 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=Clyders&color=orange)
+
+### Hi there 👋
+
+My name is Aditya!
+
+```js
+const aboutMe = {
+  'workingOn': ['lolmemer', 'NylonDesignStudio'],
+  'learning': 'JavaScript',
+  'contactMe': 'adityapcgaming@gmail.com',
+  'pronouns': ['he', 'him']
+}
+
+```
+
+### Stats
+
+![image](https://github-readme-stats.vercel.app/api?username=Clyders&count_private=1&theme=radical)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyders&layout=compact)
 
 <!--
-**Clyders/Clyders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
