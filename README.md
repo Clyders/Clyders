@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Clyders&color=orange)
+![](https://komarev.com/ghpvc/?username=Clyders&color=blue)
 
 ---
 
@@ -13,7 +13,7 @@ My name is Aditya!
 ```js
 const aboutMe = {
   'workingOn': ['lolmemer', 'NylonDesignStudio'],
-  'learning': 'JavaScript',
+  'learning': ['JavaScript', 'TypeScript', 'Rail'],
   'contactMe': 'adityapcgaming@gmail.com',
   'pronouns': ['he', 'him']
 }
