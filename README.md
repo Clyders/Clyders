@@ -12,8 +12,8 @@ My name is Aditya!
 
 ```js
 const aboutMe = {
-  'workingOn': ['lolmemer', 'NylonDesignStudio'],
-  'learning': ['JavaScript', 'TypeScript', 'Rail'],
+  'workingOn': ['Seplionix, 'NylonDesignStudio'],
+  'learning': ['TypeScript', 'Rust', 'Go'],
   'contactMe': 'adityapcgaming@gmail.com',
   'pronouns': ['he', 'him']
 }
