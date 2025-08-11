@@ -26,6 +26,9 @@ const aboutMe = {
 
 ![image](https://github-readme-stats.vercel.app/api?username=Clyders&count_private=1&show_icons=true&theme=merko)
 
+---
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityalol)]
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
