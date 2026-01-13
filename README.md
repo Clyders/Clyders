@@ -2,22 +2,10 @@
 
 ### Hi there 👋
 
-My name is Aditya!
+➜ I'm Aditya from India - he/him <br>
+➜ I majorly develop frontend stuff. <br>
+➜ Learning new stuff daily. <br>
+➜ Currently working with [Nationdex](https://arielaram.com). <br>
+➜ Contact: [hi@adityaa.xyz](mailto:hi@adityaa.xyz)
 
-```js
-const aboutMe = {
-  'workingOn': ['CloseRoute, 'Nationdex'],
-  'learning': ['TypeScript', 'Rust', 'Go'],
-  'contactMe': 'hi@adityaa.xyz',
-  'pronouns': ['he', 'him']
-}
-
-```
-
-### Stats
-
-![image](https://github-readme-stats.vercel.app/api?username=Clyders&count_private=1&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyders&langs_count=8&theme=radical)
-
-- Fun fact: [example.com](https://example.com/) is actually a website too.
+Portfolio: [adityaa.xyz](https://adityaa.xyz/)
